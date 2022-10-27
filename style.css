@@ -1,0 +1,62 @@
+.one{
+    position: absolute;
+width: 1280px;
+height: 100px;
+left: 32px;
+top: 50px;
+
+
+}
+.one1{ 
+  
+  
+    
+    position: absolute;
+    width: 866px;
+    height: 21px;
+    left: 980px;
+    top: 50px;
+    
+
+}
+.one1{
+
+    justify-content:space-around;
+    width: 198px;
+    height: 21px;
+   
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #000000;
+}
+.tux{
+  
+  position:absolute;
+   
+    left: 54px;
+    top: 500px;
+}
+.tux1{
+  
+    position:absolute;
+   
+    left: 1620px;
+    top: 980px;
+
+}
+.sec{
+    
+    position:absolute;
+   
+    left: 872px;
+    top: 1092px;
+}
+.sec1{
+    position:absolute;
+   
+    left: 60px;
+    top: 1130px;
+ 
+}
